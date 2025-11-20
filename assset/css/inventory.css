@@ -21,6 +21,10 @@ th,td{
     text-align:center;
 }
 
+th{
+    background-color:#f0f0f0
+}
+
 .low-stock{
     background-color:#ffe0e0;
 }
